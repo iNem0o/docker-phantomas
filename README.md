@@ -19,11 +19,11 @@ Builded image includes Phantomas **1.13.0**, NodeJS **0.10** and PhantomJS **1.9
 		git clone https://github.com/iNem0o/docker-phantomas docker-phantomas
 		cd docker-phantomas
 		docker build -t phantomas .
-	    docker run --rm phantomas phantomas https://github.com/macbre/phantomas
+	    docker run --rm phantomas https://github.com/macbre/phantomas
 
 ### Usage
 
-    	docker run --rm inem0o/phantomas phantomas https://github.com/macbre/phantomas
+    	docker run --rm inem0o/phantomas https://github.com/macbre/phantomas
 
 You can read the full phantomas usage parameters [here](https://github.com/macbre/phantomas#parameters)
 
