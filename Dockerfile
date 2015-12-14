@@ -3,4 +3,4 @@ MAINTAINER "inem0o <leo@cuneaz.fr>"
 
 RUN npm install --global phantomjs phantomas
 
-CMD ["phantomas"]
+ENTRYPOINT ["/usr/local/bin/phantomas"]
