@@ -27,6 +27,14 @@ Builded image includes Phantomas **1.13.0**, NodeJS **0.10** and PhantomJS **1.9
 
 You can read the full phantomas usage parameters [here](https://github.com/macbre/phantomas#parameters)
 
+
+
+### Contributors
+
+* [iNem0o](https://github.com/iNem0o)
+* [djenriquez](https://github.com/djenriquez)
+
+
 ### Changelog
 
 **1.13.0**
